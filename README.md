@@ -187,7 +187,7 @@ To use this component in your project you need to perform the below steps:
 > Select your App ID
 > Under Capabilities scroll down and activate Sign In with Apple.
 <div style="float:left">
-<img src="SignInwithApple-developerportal.jpg" width="600">
+<img src="Screenshots/SignInwithApple-developerportal.jpg" width="600">
 </div>
     
 
